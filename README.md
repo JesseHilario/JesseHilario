@@ -26,13 +26,12 @@ My first project was the capstone for the Google Data Analytics Certification. U
 
 
 ***
-## Contact Page
+## Contact Info
 
 [Kaggle](https://www.kaggle.com/jessehilario)
 
 [LinkedIn](https://www.linkedin.com/in/jesse-hilario-5b8391178/)
 
-Email me: jih32@scarletmail.rutgers.edu
 
 ***
 ## Certifications
