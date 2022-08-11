@@ -1,5 +1,5 @@
 
-Hi there and welcome to my github 👋 
+Hello there and welcome to my github 👋 
 
 ***
 ## My Mission
