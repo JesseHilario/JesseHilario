@@ -25,6 +25,7 @@ I have a passion for psychology and sports--I would love to work on a project wi
 ## Currently
 
 * Self-teaching data science through [Open Source Society University](https://github.com/ossu/data-science)
+* Data Scientist with Python track on Data Camp -- [See my profile here](https://www.datacamp.com/profile/jih32)
 * Working on visualizing COVID data using Tableau
 
 
