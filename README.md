@@ -3,7 +3,7 @@ Hello there and welcome to my github 👋
 
 ***
 ## Mission
-My name is Jesse Hilario and I am a current student taking the Data Mining graduate certificate at NJIT. This, coupled with my previous experience earning my Google certification and self-study, has prepared me for a career in data analysis by training me in asking questions suitable for the business task, effective visualization, machine learning fundamentals, Agile methodologies and Lean principles, and in the overall data analysis process (ask, prepare, process, analyze, share, act) using the tools listed below.
+My name is Jesse Hilario and I am a current student taking the Data Mining graduate certificate at NJIT. This coursework, coupled with self-study and my previous experience earning my Google certification, has prepared me for a career in data analysis by training me in asking questions suitable for the business task, effective visualization, machine learning fundamentals, Agile methodologies and Lean principles, and in the overall data analysis process (ask, prepare, process, analyze, share, act) using the tools listed below.
 
 I have a strong background in social science research with two years of experience working as a research assistant in undergraduate. I am looking to apply my skills and interest in statistics and data visualization in domains outside of academia and research.
 
