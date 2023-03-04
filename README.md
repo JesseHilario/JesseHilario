@@ -11,22 +11,28 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 
 ***
-## Project Overview:
+## Portfolio:
 
 * Click [HERE](https://github.com/JesseHilario/JesseHilario.github.io) for my projects, CV, and Google certification
+* Currently working on implementing comparing Apriori Algorithm to brute force
 
 
 ## Competencies
 
-* Tools: R, SQL, Tableau, Excel, Python
-* Skills: Data Cleaning, Processing, Analysis, & Visualisation; Relational Databases
+* Tools: Excel, Python, R, SQL, Tableau, Git
+* Skills: Data Cleaning, Processing, Analysis, & Visualisation; Relational Databases; Machine Learning
 
 
 ## Currently
 
-* Studying Data Mining graduate certificate at NJIT
-* Self-teaching data science through [Open Source Society University](https://github.com/ossu/data-science)
+* Taking Data Mining graduate certificate at NJIT
+* Self-teaching data science through [Open Source Society University](https://github.com/ossu/data-science) and [Supervised Machine Learning: Regression and Classification on Coursera](https://www.coursera.org/specializations/machine-learning-introduction?)
 * Data Scientist with Python track on Data Camp -- [See my profile here](https://www.datacamp.com/profile/jih32)
+
+
+## What's after?
+
+* Enrolling in Data Science Master's at NJIT
 
 
 
