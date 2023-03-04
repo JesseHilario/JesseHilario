@@ -11,15 +11,17 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 
 ***
-## Portfolio:
+## My Portfolio:
 
-* Click [HERE](https://github.com/JesseHilario/JesseHilario.github.io) for my projects, CV, and Google certification
+* [Click here for my projects, CV, and Google certification](https://github.com/JesseHilario/JesseHilario.github.io)
 * Currently working on implementing comparing Apriori Algorithm to brute force
 
 
 ## Competencies
 
 * Tools: Excel, Python, R, SQL, Tableau, Git
+  * Python
+    * d
 * Skills: Data Cleaning, Processing, Analysis, & Visualisation; Relational Databases; Machine Learning
 
 
