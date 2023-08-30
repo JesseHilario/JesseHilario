@@ -18,6 +18,8 @@ I have a passion for psychology and sports--I would love to work on a project wi
 ### Python
 [![titanic_plot](https://github.com/JesseHilario/JesseHilario/assets/106210905/b0800ba2-d790-4a36-899f-6c04315b2f52)](https://www.kaggle.com/code/jessehilario/titanic-dataset-w-random-forest/notebook?scriptVersionId=141476065)
 
+[<img src="https://github.com/JesseHilario/JesseHilario/assets/106210905/b0800ba2-d790-4a36-899f-6c04315b2f52">](https://www.kaggle.com/code/jessehilario/titanic-dataset-w-random-forest/notebook?scriptVersionId=141476065)
+
 
 * [Click here for my projects, CV, and Google certification](https://github.com/JesseHilario/JesseHilario.github.io)
 * Currently working on implementing from scratch and comparing Apriori Algorithm vs brute force in a transactional database with Python
