@@ -30,15 +30,17 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 ### <p align="center"> SQL </p>
 
-#### Deciding on a Place to Live using the Weather Database
-![forecaster_image](https://github.com/JesseHilario/JesseHilario/assets/106210905/87b09f17-121f-4608-8bb5-9ad15b70d888)
+#### [Deciding on a Place to Live using the Weather Database](https://github.com/JesseHilario/JesseHilario.github.io/tree/main/SQL/2023_finding_a_home_project)
+![usa_weather_map](https://github.com/JesseHilario/JesseHilario/assets/106210905/f7c798a3-5d8c-403c-827d-d78f4289e8e9)
 
 
 
 
-#### [Lahman Baseball Database](http://seanlahman.com/download-baseball-database/)
+
+#### [Exploring Baseball Player and Team Data](https://github.com/JesseHilario/JesseHilario.github.io/tree/main/SQL/2023_Baseball_database_SQL)
 ![Baseball_schema_viz](https://github.com/JesseHilario/JesseHilario/assets/106210905/b27f09ad-6010-4a0a-b90e-4bc7bcea0247)
-
+*<p align="right">Zoom in of a viz showing entity relationships. Created using Schema Visualization extension on Azure Studio Cloud</p>*
+- Using the [Lahman Baseball Database](http://seanlahman.com/download-baseball-database/), multiple assignments completed for Enterprise Database Management
 
 ## Competencies
 
