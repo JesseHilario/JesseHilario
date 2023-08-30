@@ -34,6 +34,7 @@ I have a passion for psychology and sports--I would love to work on a project wi
 <p align="center">
  <img src="https://github.com/JesseHilario/JesseHilario/assets/106210905/f7c798a3-5d8c-403c-827d-d78f4289e8e9" width="400" height="250"/>
 </p>
+
 * You are trying to decide where in the US to reside. The most important factor to you is temperature, you hate cold weather.
 * In [part one](https://github.com/JesseHilario/JesseHilario.github.io/blob/main/SQL/2023_finding_a_home_project/Submission%201%20-%20SQL%20Questions.sql), I created a view with schemabinding (tsql) with only relevant columns and US locations. Created an index for speed and used windowing to find 4-day moving average for days of the year
 * In [part two](https://github.com/JesseHilario/JesseHilario.github.io/blob/main/SQL/2023_finding_a_home_project/Submission%202%20-%20Geospatial%20Data%20and%20Stored%20Procedure.sql), I created a stored procedure that calculated distance in meters and hours of travel for each city in a given state, based on starting coordinates
