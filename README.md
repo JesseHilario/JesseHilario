@@ -11,11 +11,17 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 
 ***
-## <p align="center"> Python </p>
+## Portfolio
 
-### Python
+### <p align="center"> Python </p>
+
+### [Titanic - Machine Learning from Disaster Competition (Kaggle)](https://www.kaggle.com/code/jessehilario/titanic-dataset-w-random-forest)
 
 [![titanic_plot](https://github.com/JesseHilario/JesseHilario/assets/106210905/b0800ba2-d790-4a36-899f-6c04315b2f52)](https://www.kaggle.com/code/jessehilario/titanic-dataset-w-random-forest)
+*<p align="right">Plot of untransformed numerical variables. Created using Seaborn's histplot</p>*
+- Preprocessing: used sklearn for feature engineering (using domain knowledge), EDA, missing value imputation, data transformation
+- Model Tuning: input preprocessing steps and random forest model into a pipeline to be optimized & cross-validated using gridsearchcv
+- Tools: sklearn, pandas, seaborn, pyplot, numpy
 
 
 * [Click here for my projects, CV, and Google certification](https://github.com/JesseHilario/JesseHilario.github.io)
