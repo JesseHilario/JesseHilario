@@ -39,7 +39,7 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 #### [Exploring Baseball Player and Team Data](https://github.com/JesseHilario/JesseHilario.github.io/tree/main/SQL/2023_Baseball_database_SQL)
 ![Baseball_schema_viz](https://github.com/JesseHilario/JesseHilario/assets/106210905/b27f09ad-6010-4a0a-b90e-4bc7bcea0247)
-*<p align="right">Zoom in of a viz showing entity relationships. Created using Schema Visualization extension on Azure Studio Cloud</p>*
+*<p align="right">Zoom in of a viz showing entity relationships. Created using Schema Visualization extension on Azure Data Studio</p>*
 - Using the [Lahman Baseball Database](http://seanlahman.com/download-baseball-database/), multiple assignments completed for Enterprise Database Management
 
 ## Competencies
