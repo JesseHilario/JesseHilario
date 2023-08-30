@@ -14,7 +14,7 @@ I have a passion for psychology and sports--I would love to work on a project wi
 ## Portfolio
 * [Click here for my projects, CV, and Google certification](https://github.com/JesseHilario/JesseHilario.github.io)
 
-### <p align="center"> Python </p>
+### <p align="center"> PYTHON </p>
 
 #### [Titanic - Machine Learning from Disaster Competition (Kaggle)](https://www.kaggle.com/code/jessehilario/titanic-dataset-w-random-forest)
 
@@ -34,7 +34,10 @@ I have a passion for psychology and sports--I would love to work on a project wi
 <p align="center">
  <img src="https://github.com/JesseHilario/JesseHilario/assets/106210905/f7c798a3-5d8c-403c-827d-d78f4289e8e9" width="400" height="250"/>
 </p>
-
+- You are trying to decide where in the US to reside. The most important factor to you is temperature, you hate cold weather.
+- In [part one](https://github.com/JesseHilario/JesseHilario.github.io/blob/main/SQL/2023_finding_a_home_project/Submission%201%20-%20SQL%20Questions.sql), I created a view with schemabinding (tsql) with only relevant columns and US locations. Created an index for speed and used windowing to find 4-day moving average for days of the year
+- In [part two](https://github.com/JesseHilario/JesseHilario.github.io/blob/main/SQL/2023_finding_a_home_project/Submission%202%20-%20Geospatial%20Data%20and%20Stored%20Procedure.sql), I created a stored procedure that calculated distance in meters and hours of travel for each city in a given state, based on starting coordinates
+- In addition to the temperature, you are also very concerned with crime in the area. In [part 3](https://github.com/JesseHilario/JesseHilario.github.io/blob/main/SQL/2023_finding_a_home_project/Submission%203%20-%20Crime%20Data.sql), I updated the stored procedure to output the yearly number of gun crimes committed within 10 miles of each city. I then ranked the cities of New Jersey, with Newark having the most gun crimes within a 10-mile radius
 
 
 #### [Exploring Baseball Player and Team Data](https://github.com/JesseHilario/JesseHilario.github.io/tree/main/SQL/2023_Baseball_database_SQL)
