@@ -33,7 +33,7 @@ I have a passion for psychology and sports--I would love to work on a project wi
 #### [Deciding on a Place to Live using the Weather Database](https://github.com/JesseHilario/JesseHilario.github.io/tree/main/SQL/2023_finding_a_home_project)
 ![usa_weather_map](https://github.com/JesseHilario/JesseHilario/assets/106210905/f7c798a3-5d8c-403c-827d-d78f4289e8e9)
 
-<img src="https://github.com/JesseHilario/JesseHilario/assets/106210905/f7c798a3-5d8c-403c-827d-d78f4289e8e9" width="100" height="77" />
+<img src="https://github.com/JesseHilario/JesseHilario/assets/106210905/f7c798a3-5d8c-403c-827d-d78f4289e8e9" width="210" height="120" />
 
 
 
