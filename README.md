@@ -11,7 +11,9 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 
 ***
-## My Portfolio:
+## Portfolio:
+
+### **Python**
 
 * [Click here for my projects, CV, and Google certification](https://github.com/JesseHilario/JesseHilario.github.io)
 * Currently working on implementing from scratch and comparing Apriori Algorithm vs brute force in a transactional database with Python
