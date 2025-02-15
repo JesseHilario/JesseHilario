@@ -16,10 +16,10 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 ### <p align="center"> PYTHON </p>
 
-#### [ASR: Finetuning Whisper with Tagalog](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
+#### DEEP LEARNING | [ASR: Finetuning Whisper with Tagalog](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
 
 [![image](https://github.com/user-attachments/assets/fbd64680-719b-4308-aea3-69e2b29ebb4a)](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
-*<p align="right">Live Demo of fine-tuned model using Gradio</p>*
+*<p align="left">Live Demo of fine-tuned model using Gradio</p>*
 - Successfully improved WER by over 10% from original OpenAI paper for a low resource language, Tagalog
 - Model shown to generalize to another dataset, in the spirit of Whisper authors
 
