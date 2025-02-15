@@ -68,7 +68,7 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 #### [Visualizing World Happiness](https://public.tableau.com/app/profile/jesse.hilario/viz/WorldHappiness2015-2022_16893608574390/Dashboard)
 
-![image](https://github.com/user-attachments/assets/514d42e3-afc2-41e1-a8f8-9f5e90dcfc09)
+[![image](https://github.com/user-attachments/assets/514d42e3-afc2-41e1-a8f8-9f5e90dcfc09)](https://public.tableau.com/app/profile/jesse.hilario/viz/WorldHappiness2015-2022_16893608574390/Dashboard)
 
 
 
