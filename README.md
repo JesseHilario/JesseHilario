@@ -3,7 +3,7 @@ Hello there and welcome to my github 👋
 
 ***
 ## Mission
-My name is Jesse Hilario and I am a recent graduate of the NJIT Data Science MS program. Here you will find the projects that have sparked my passion in working with data that impacts others.
+My name is Jesse Hilario and I am a recent graduate of the NJIT Data Science MS program. Here you will find the projects that have sparked my passion in working with data that interests, inspires, and impacts others.
 
 Thank you for visiting my page, and I hope you enjoy my work. 
 
