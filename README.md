@@ -16,16 +16,14 @@ I have a passion for psychology and sports--I would love to work on a project wi
 
 ### <p align="center"> PYTHON </p>
 
-#### [Titanic - Machine Learning from Disaster Competition (Kaggle)](https://www.kaggle.com/code/jessehilario/titanic-dataset-w-random-forest)
+#### [ASR: Finetuning Whisper with Tagalog](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
 
-[![titanic_plot (7)](https://github.com/JesseHilario/JesseHilario/assets/106210905/a7812214-0fc3-4d13-a543-97da0395ed2b)](https://www.kaggle.com/code/jessehilario/titanic-dataset-w-random-forest)
-*<p align="right">Plot of untransformed numerical variables. Created using Seaborn's histplot</p>*
-- Kaggle Machine Learning competition, accounted for attributes to predict whether a passenger survives the titanic
-- Preprocessing: used sklearn for feature engineering (using domain knowledge), EDA, missing value imputation, data transformation
-- Model Tuning: input preprocessing steps and random forest model into a pipeline to be optimized & cross-validated using gridsearchcv
+[![image](https://github.com/user-attachments/assets/fbd64680-719b-4308-aea3-69e2b29ebb4a)](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
+*<p align="right">Live Demo of fine-tuned model using Gradio</p>*
+- Successfully improved WER by over 10% from original OpenAI paper for a low resource language, Tagalog
+- Model shown to generalize to another dataset, in the spirit of Whisper authors
 
 
-* Currently working on implementing from scratch and comparing Apriori Algorithm vs brute force in a transactional database with Python
 
 
 ### <p align="center"> SQL </p>
