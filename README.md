@@ -19,9 +19,9 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 ### <p align="center"> PYTHON </p>
 
-#### CRUD & DATABASES | [Car Dealership CRM w/Django and PostgreSQL](https://github.com/JesseHilario/Car-Dealership-CRM-Project)
+#### CRUD & DATABASES | [Car Dealership CRM w/Apache Tomcat and PostgreSQL](https://github.com/JesseHilario/Car-Dealership-Management)
 
-[![image](https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d)](https://github.com/JesseHilario/Car-Dealership-CRM-Project)
+[![image](https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d)](https://github.com/JesseHilario/Car-Dealership-Management)
 *Homepage of our Car Dealership App*
 - I created a custom database hosted on Supabase by first mapping user requirements in an ERD
 - Used stored procedures to make transactions to allow consistency instead of having frontend handle them
