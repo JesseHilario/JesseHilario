@@ -16,13 +16,12 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 ***
 ## Portfolio
-* [Click here for my projects, CV, and Google certification](https://github.com/JesseHilario/JesseHilario.github.io)
 
 ### <p align="center"> PYTHON </p>
 
 #### CRUD & DATABASES | [Car Dealership CRM w/Django and PostgreSQL](https://github.com/JesseHilario/Car-Dealership-CRM-Project)
 
-![image](https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d)
+[![image](https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d)](https://github.com/JesseHilario/Car-Dealership-CRM-Project)
 *Homepage of our Car Dealership App*
 - I created a custom database hosted on Supabase by first mapping user requirements in an ERD
 - Used stored procedures to make transactions to allow consistency instead of having frontend handle them
@@ -67,3 +66,5 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 
 
+
+* [Click here for my projects, CV, and Google certification](https://github.com/JesseHilario/JesseHilario.github.io)
