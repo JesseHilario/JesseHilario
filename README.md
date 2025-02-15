@@ -7,6 +7,12 @@ My name is Jesse Hilario and I am a recent graduate of the NJIT Data Science MS 
 
 Thank you for visiting my page, and I hope you enjoy my work. 
 
+[Python](#python)
+
+[SQL](#sql)
+
+[Tableau](#tableau)
+
 ***
 ## Contact Me
 
@@ -19,15 +25,6 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 ### <p align="center"> PYTHON </p>
 
-#### CRUD & DATABASES | [Car Dealership CRM w/Apache Tomcat and PostgreSQL](https://github.com/JesseHilario/Car-Dealership-Management)
-
-[![image](https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d)](https://github.com/JesseHilario/Car-Dealership-Management)
-*Homepage of our Car Dealership App*
-- I created a custom database hosted on Supabase by first mapping user requirements in an ERD
-- Used stored procedures to make transactions to allow consistency instead of having frontend handle them
-
-  
-
 #### DEEP LEARNING | [ASR: Finetuning Whisper with Tagalog](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
 
 [![image](https://github.com/user-attachments/assets/fbd64680-719b-4308-aea3-69e2b29ebb4a)](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
@@ -39,6 +36,16 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 
 ### <p align="center"> SQL </p>
+
+
+#### CRUD & DATABASES | [Car Dealership CRM w/Apache Tomcat and PostgreSQL](https://github.com/JesseHilario/Car-Dealership-Management)
+
+[![image](https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d)](https://github.com/JesseHilario/Car-Dealership-Management)
+*Homepage of our Car Dealership App*
+- I created a custom database hosted on Supabase by first mapping user requirements in an ERD
+- Used stored procedures to make transactions to allow consistency instead of having frontend handle them
+
+
 
 #### [Deciding on a Place to Live using the Weather Database](https://github.com/JesseHilario/JesseHilario.github.io/tree/main/SQL/2023_finding_a_home_project)
 <p align="center">
@@ -55,6 +62,16 @@ Thank you for visiting my page, and I hope you enjoy my work.
 ![Baseball_schema_viz](https://github.com/JesseHilario/JesseHilario/assets/106210905/c4c539b8-635f-4aaf-a8a9-c259c8c2dbd8)
 *<p align="right">Zoom in of a viz showing entity relationships. Created using Schema Visualization extension on Azure Data Studio</p>*
 - Using the [Lahman Baseball Database](http://seanlahman.com/download-baseball-database/), multiple assignments completed for Enterprise Database Management
+
+
+### <p align="center"> Tableau </p>
+
+#### [Visualizing World Happiness](https://public.tableau.com/app/profile/jesse.hilario/viz/WorldHappiness2015-2022_16893608574390/Dashboard)
+
+![image](https://github.com/user-attachments/assets/514d42e3-afc2-41e1-a8f8-9f5e90dcfc09)
+
+
+
 
 ## Competencies
 
