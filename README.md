@@ -1,34 +1,21 @@
-
-Hello there and welcome to my github 👋 
-
-***
-## Mission
-My name is Jesse Hilario and I am a recent graduate of the NJIT Data Science MS program. Here you will find the projects that have sparked my passion in working with data that interests, inspires, and impacts others.
-
-Thank you for visiting my page, and I hope you enjoy my work. 
-
-[Python](#python)
-
-[SQL](#sql)
-
-[Tableau](#tableau)
+# Hello there 👋 I'm Jesse
+I am a recent graduate of the NJIT Data Science MS program. Here you will find the projects that have sparked my passion in working with data that interests, inspires, and impacts others. Thank you for visiting my page.
 
 ***
-## Contact Me
+## Stakeholder Projects
+[Corporacion Favorita Sales Analysis from 2013 to 2017](https://github.com/JesseHilario/Corporacion-Favorita-Sales-Analysis)
 
-[LinkedIn](https://www.linkedin.com/in/jesse-hilario-5b8391178/)
-
-[Kaggle](https://www.kaggle.com/jessehilario)
+[<img src="https://github.com/user-attachments/assets/0fec896e-cadb-4a11-ba20-a83abdad7796" alt="drawing" width="400"/>](https://github.com/JesseHilario/Corporacion-Favorita-Sales-Analysis)
 
 ***
-## Portfolio
+## Learning Projects
 
 ### <p align="center"> PYTHON </p>
 
 #### DEEP LEARNING | [ASR: Finetuning Whisper with Tagalog](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
 
-[![image](https://github.com/user-attachments/assets/fbd64680-719b-4308-aea3-69e2b29ebb4a)](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
-*<p align="left">Live Demo of fine-tuned model using Gradio</p>*
+[<img src="https://github.com/user-attachments/assets/fbd64680-719b-4308-aea3-69e2b29ebb4a" alt="drawing" width="200"/>](https://github.com/JesseHilario/ASR-Whisper-Finetune-with-Tagalog)
+
 - Successfully improved WER by over 10% from original OpenAI paper for a low resource language, Tagalog
 - Model shown to generalize to another dataset, in the spirit of Whisper authors
 
@@ -40,8 +27,8 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 #### CRUD & DATABASES | [Car Dealership CRM w/Apache Tomcat and PostgreSQL](https://github.com/JesseHilario/Car-Dealership-Management)
 
-[![image](https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d)](https://github.com/JesseHilario/Car-Dealership-Management)
-*Homepage of our Car Dealership App*
+[<img src="https://github.com/user-attachments/assets/268ca2ab-4c87-46c7-a971-18640686805d" alt="drawing" width="400"/>](https://github.com/JesseHilario/Car-Dealership-Management)
+
 - I created a custom database hosted on Supabase by first mapping user requirements in an ERD
 - Used stored procedures to make transactions to allow consistency instead of having frontend handle them
 
@@ -59,7 +46,9 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 
 #### [Exploring Baseball Player and Team Data](https://github.com/JesseHilario/JesseHilario.github.io/tree/main/SQL/2023_Baseball_database_SQL)
-![Baseball_schema_viz](https://github.com/JesseHilario/JesseHilario/assets/106210905/c4c539b8-635f-4aaf-a8a9-c259c8c2dbd8)
+
+<img src="https://github.com/JesseHilario/JesseHilario/assets/106210905/c4c539b8-635f-4aaf-a8a9-c259c8c2dbd8" alt="drawing" width="400"/>
+
 *<p align="right">Zoom in of a viz showing entity relationships. Created using Schema Visualization extension on Azure Data Studio</p>*
 - Using the [Lahman Baseball Database](http://seanlahman.com/download-baseball-database/), multiple assignments completed for Enterprise Database Management
 
@@ -68,8 +57,16 @@ Thank you for visiting my page, and I hope you enjoy my work.
 
 #### [Visualizing World Happiness](https://public.tableau.com/app/profile/jesse.hilario/viz/WorldHappiness2015-2022_16893608574390/Dashboard)
 
-[![image](https://github.com/user-attachments/assets/514d42e3-afc2-41e1-a8f8-9f5e90dcfc09)](https://public.tableau.com/app/profile/jesse.hilario/viz/WorldHappiness2015-2022_16893608574390/Dashboard)
+[<img src="https://github.com/user-attachments/assets/514d42e3-afc2-41e1-a8f8-9f5e90dcfc09" alt="drawing" width="400"/>
+](https://public.tableau.com/app/profile/jesse.hilario/viz/WorldHappiness2015-2022_16893608574390/Dashboard)
 
+
+***
+## Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/jesse-hilario-5b8391178/)
+
+[Kaggle](https://www.kaggle.com/jessehilario)
 
 
 
