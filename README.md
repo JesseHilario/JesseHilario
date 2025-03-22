@@ -3,6 +3,11 @@ I am a recent graduate of the NJIT Data Science MS program. Here you will find t
 
 ***
 ## Stakeholder Projects
+
+[Clipboard-Health-Nurse-Staffing-Analysis-2024Q2](https://github.com/JesseHilario/Clipboard-Health-Nurse-Staffing-Analysis-2024Q2?tab=readme-ov-file)
+
+[<img src="https://github.com/user-attachments/assets/8f7ccdc3-cad6-454c-a098-57ccd546ff4e" alt="drawing" width="500"/>](https://github.com/JesseHilario/Clipboard-Health-Nurse-Staffing-Analysis-2024Q2?tab=readme-ov-file)
+
 [Corporacion Favorita Sales Analysis from 2013 to 2017](https://github.com/JesseHilario/Corporacion-Favorita-Sales-Analysis#corporacion-favorita-sales-analysis-from-2013-to-2017)
 
 [<img src="https://github.com/user-attachments/assets/0fec896e-cadb-4a11-ba20-a83abdad7796" alt="drawing" width="400"/>](https://github.com/JesseHilario/Corporacion-Favorita-Sales-Analysis#corporacion-favorita-sales-analysis-from-2013-to-2017)
